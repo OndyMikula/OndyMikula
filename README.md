@@ -2,7 +2,7 @@
 - 👀 I’m interested in building useful simple programs that makes life easier (only in C# and Czech)
 - 🌱 I’m currently learning how to productivelly work with AI
 - 💞️ I’m looking to collaborate on those projects
-- 📫 You can reach me on my email "zoufalyondrej@gmail.com", instagram "[ondrazoufaly](https://www.instagram.com/ondrazoufaly/)" or discord "bond9203"
+- 📫 You can reach me on my email "ondymikula314@gmail.com", instagram "[ondyho_dobrodruzstvi_](https://www.instagram.com/ondyho_dobrodruzstvi_)" or discord "bond9203"
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm using AI on almost every project I make because I cannot make it work without it
 
