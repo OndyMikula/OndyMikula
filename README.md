@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OndyMikula
-- 👀 I’m interested in building useful simple programs that makes life easier using AI (only in C# and Czech)
+- 👀 I’m interested in building useful simple programs that makes life easier
 - 📫 You can reach me on my [Email](ondymikula314@gmail.com), [Instagram](https://www.instagram.com/ondyho_dobrodruzstvi_) or [Discord](https://discord.com/users/431050190439317504)
 
 <!---
